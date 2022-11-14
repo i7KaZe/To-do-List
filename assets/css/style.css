@@ -20,7 +20,7 @@ body {
     font-family: chalk, sans-serif;
     color: var(--couleur-texte);
 
-    background-image: url('../images/background.jpg');
+    background-image: url('../images/lac.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -56,7 +56,7 @@ h2 {
     outline: 1px solid var(--couleur-texte);
     outline-offset: -6px;
 
-    background-image: url(../images/background-todo.jpg);
+
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
